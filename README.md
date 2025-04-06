@@ -1,26 +1,26 @@
 # McDonalds - Financial Analysis of past 20 years
 ## A brief analysis using publicly available dataset about Mc Donalds
 
-###Information
+### Information
     - Dataset - [https://www.kaggle.com/code/srilalithagarapati/mcdonald-financial-statement-analysis]
     - Dataset format - Microsoft Excel
     - Tools used - Microsoft Excel and Power BI
 
-###Analysis needed
+### Analysis needed
     - Understanding current situation using indicators usually used in fundamental analysis
     - How is the profit trend (Gross and Net) over the years in comparison to revenue
     - Is the company able to effectively operate business by keeping operating costs low
     - How is investor sentiment when investing in the company
     - How is the company able to pay off debt over time
     
-###Data Cleaning
+### Data Cleaning
     - While the data was simple excel table with metrics for past 20 years. It did require cleaning and formatting
     - Most of the figures were in billion dollars, so converted them to ensure data consistency and no errors during creating measures.
     - Standardized ratios to % to ensure better understanding during analyzing
     - Created a date column since the only column related to date was year
     - Converted it into a table for better connection to Power BI
     
-###Process
+### Process
     -Measures created
     -Average Expenses = Average of Total Expenses
     -Total Expenses = Revenue - Earnings
@@ -28,7 +28,7 @@
     -Net Profit Margin = Earnings/ Revenue
     -Operating Margin = Operating Income / Revenue
     
-###Visualizations Created
+### Visualizations Created
     - Sales vs Profit - This visual explains the trend of Revenue and Earnings. It also has some key measure developed from the base available data such as Total Expenses, Average Expenses, Operating 
                         Margin and Net Profit Margin.
     - Net Asset trend due to increasing liabilities - This is a line chart of Total Liabilities, Total Assets and Net Assets. It shows the corelation between them.
@@ -36,7 +36,7 @@
     - Earnings vs Debt - There are couple of charts here. It shows how much money each year is generated in profits vs how much is remaining in debt. Another chart shows the operating margin which 
                           shows that operating margin is improving every year in small increments.
                           
-###Insights
+### Insights
     - A net profit margin of 27.37% is excellent — this means the company keeps nearly 28 cents in profit for every dollar of revenue.
     - Operating margin of 27.43% is almost equal to the net margin, which is interesting.
         - This means the company has:
