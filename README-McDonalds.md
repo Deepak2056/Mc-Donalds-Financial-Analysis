@@ -53,8 +53,8 @@
 ### Brief Visuals
 Some sample visuals from the analysis. Please refer to the pdf file attached for full picture
 ![image](2.png)
-![image](https://github.com/user-attachments/assets/7faf68a0-216d-4906-a5c2-b99c34db7fdf)
-![image](https://github.com/user-attachments/assets/42c97527-3302-4905-87bf-f3dfed9e5c59)
+![image](3.png)
+![image](4.png)
 
 
 
