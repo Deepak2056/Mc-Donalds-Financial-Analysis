@@ -52,7 +52,7 @@
     
 ### Brief Visuals
 Some sample visuals from the analysis. Please refer to the pdf file attached for full picture
-![image](https://github.com/user-attachments/assets/605cf66e-a0f8-47be-9e86-ce68ce906808)
+![image](2.png)
 ![image](https://github.com/user-attachments/assets/7faf68a0-216d-4906-a5c2-b99c34db7fdf)
 ![image](https://github.com/user-attachments/assets/42c97527-3302-4905-87bf-f3dfed9e5c59)
 
